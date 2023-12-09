@@ -1,1 +1,1 @@
-https://github.com/bboyjoga/ono-tebe-nado-2.git
+git@github.com:bboyjoga/ono-tebe-nado-2.git
