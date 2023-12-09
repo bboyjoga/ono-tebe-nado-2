@@ -1,1 +1,1 @@
-https://github.com/bboyjoga/ono-tebe-nado-2
+git@github.com:yandex-praktikum/ono-tebe-nado-2.git
