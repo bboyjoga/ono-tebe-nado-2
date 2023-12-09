@@ -52,7 +52,7 @@
 
   .cover {
     background-image: url(../images/cover.jpg);
-    background-size: 100% 100%; 
+    background-size: 100%;
     display: flex;
     flex-direction: column;
     position: relative;
@@ -145,7 +145,7 @@
     background-color: transparent;
     padding: 12px 32px;
     border-color: #FFF;
-    border-width: 2px;  
+    border-width: 2px;
   }
 
   .lots {
@@ -220,7 +220,7 @@
   .card__text {
     position: absolute;
     z-index: 2;
-    bottom: 50px; 
+    bottom: 50px;
     padding-left: 40px;
     color: #FFF;
     font-family: Raleway;
